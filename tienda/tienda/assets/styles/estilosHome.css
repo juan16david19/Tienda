@@ -1,0 +1,15 @@
+.banner{
+    background-image: url("../img/banner.jpg");
+    background-position: top center;
+    background-size: cover;
+    padding: 20%;
+    background-attachment: fixed;
+}
+
+.menu{
+    background-color: #404D51;
+}
+
+.b{
+    background-color: #869194;
+}
